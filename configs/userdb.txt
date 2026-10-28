@@ -1,0 +1,3 @@
+root:x:!root
+root:x:!123456
+root:x:*
